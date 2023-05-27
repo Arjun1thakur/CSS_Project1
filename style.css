@@ -128,11 +128,6 @@ body{
     float: right;
     cursor: pointer;
 }
-/* #checkbox:checked{
-    background: #C2C2C2 0% 0% no-repeat padding-box;
-    color: #424242;
-    background-color: red;
-} */
 #checkbox{
     width: 15px;
     height: 15px;
